@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="STUDIO BASILIO">
+    <Unit Name="ABRUZZESE LORENZO" Phone1="393384175730" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ACETI MARIO" Phone1="393494494864" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="AGENZIA ENTRATE NUMERO VERDE" Phone1="39800909696" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Agnese Marega" Phone1="393273350347" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ALBERICCI ALVAREZ" Phone1="393385460498" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Alex Piva" Phone1="393402481775" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ALIPERTI CHIARA" Phone1="390362500740" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ALIPERTI CHIARA (CELL)" Phone1="393337197767" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ALOI DAVIDE" Phone1="393397050196" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Andrea Sarto" Phone1="393333564252" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ANDREAZZA GUGLIELMO" Phone1="393333379836" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ANNA TECNOLAME" Phone1="390291082437" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Antonella Guerriero" Phone1="393924398187" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ANTONELLA TROVO'" Phone1="393402342712" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ANTONIO PELUCCHI" Phone1="393384002973" Phone2="393384002973" Phone3="" default_photo="Resource:"/>
+    <Unit Name="AROI BRUNO" Phone1="393382001845" Phone2="393382001845" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ASSISTENZA pratiche impresainungiorno" Phone1="390664892892" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BAHNIAN VOLODYMYR" Phone1="393888947374" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BARBATO ANGELO" Phone1="393474345931" Phone2="393474345931" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BARBUTO GIORGIO" Phone1="393275395681" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BARONE MARIA" Phone1="393200962745" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BASILICO ANDREA" Phone1="393358204265" Phone2="393358204265" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BASILICO FABIANA" Phone1="393282127020" Phone2="393282127020" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BASILIO ANTONIO" Phone1="393381914702" Phone2="393381914702" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BASILIO ROSA" Phone1="393356181713" Phone2="393356181713" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BATTISTELLO ROBERTO" Phone1="393333278524" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BERTAGGIA GIANLUCA" Phone1="390362540769" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BISCAGLIA GERARDO" Phone1="3381386130" Phone2="3381386130" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BISCAGLIA ROSY" Phone1="393381685365" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BOMBELLI METALTECNICA" Phone1="390362576030" Phone2="390362576030" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BONAVENTI CARLO ROMOLO" Phone1="393397595857" Phone2="393397595857" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BORGONOVO ANGELA" Phone1="390362501502" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BORTOLON ELISA" Phone1="393470748099" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BRUNELLO MARGHERITA" Phone1="390362509432" Phone2="390362509432" Phone3="" default_photo="Resource:"/>
+    <Unit Name="BRUNEO ISABELLA" Phone1="393312948569" Phone2="393312948569" Phone3="" default_photo="Resource:"/>
+    <Unit Name="C.C.I.A.A.  MI" Phone1="390285151" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CADORIA MARINELLA" Phone1="39036274513" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CAF CGN" Phone1="390434506511" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CAMPACI LOREDANA" Phone1="393713774438" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CANCELLI DANIELE" Phone1="393341702048" Phone2="393341702048" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CAPRA GIUSEPPE" Phone1="390362505895" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CAPRARA GIUSEPPE" Phone1="393476031955" Phone2="393476031955" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CAPRARA MARIA TERESA" Phone1="393801085802" Phone2="393801085802" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CAPUTO BATTISTA" Phone1="393355931388" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARANNANTE LUCA" Phone1="393337563906" Phone2="393337563906" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARBONE SABATINO" Phone1="393338924146" Phone2="393338924146" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARDI IGOR" Phone1="393409012449" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARILLO RAFFAELE" Phone1="393669743366" Phone2="393669743366" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARIMATI ANGELA" Phone1="39349557918" Phone2="39349557918" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARIMATI PAOLA" Phone1="393393673789" Phone2="393393673789" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARIOTI FRANCO" Phone1="393661015518" Phone2="393661015518" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CAROLA VALENTINA" Phone1="393458371839" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARRIERO PIA" Phone1="390362503985" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CARUSO GABRIELE" Phone1="393337640107" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CASALASPRO GIUSEPPE" Phone1="393474348962" Phone2="393474348962" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CASONATO MARTINA" Phone1="3518388123" Phone2="3518388123" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Castellanos Maria" Phone1="393491428722" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CATTANEO FABIO" Phone1="393298475971" Phone2="393298475971" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CATTANEO MARCO" Phone1="393475732361" Phone2="393475732361" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CAVINATO MARTINA" Phone1="393518388123" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CHINNI ANGIOLINA" Phone1="393476646329" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CIANCIO FRANCESCA" Phone1="393478444613" Phone2="393478444613" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Cinzia Biasin" Phone1="393383796724" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CLEMENTELLI ANNA MARIA" Phone1="393339434769" Phone2="393339434769" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CMT CREA SNC" Phone1="39029181665" Phone2="39029181665" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Colace Carlo" Phone1="393386946260" Phone2="393386946260" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COLOMBO ANDREA" Phone1="393391314734" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COLOMBO ROBERTO TECNICO ANTIFURTO" Phone1="393479224714" Phone2="393479224714" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COLOMBO SILVANA" Phone1="393737165248" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COLOMBO SILVANA" Phone1="390362523258" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COLOMBO STEFANO" Phone1="393335990600" Phone2="393335990600" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COLOSIMO MIRKO" Phone1="393456884972" Phone2="393456884972" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COMINELLI" Phone1="393389946825" Phone2="393389946825" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Condoluci Alessandro" Phone1="393461616765" Phone2="393461616765" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CONEDERA CESARE" Phone1="393357172425" Phone2="393357172425" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CONEDERA VALENTINA" Phone1="393477437007" Phone2="393477437007" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CONTIERO CINZIA" Phone1="393394821937" Phone2="393394821937" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CONTIERO CRISTIANO" Phone1="393456824425" Phone2="393456824425" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Conversano" Phone1="390362523477" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CONVERSANO ANGELO" Phone1="390362550603" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CONVERSANO CARMELINA" Phone1="393398982761" Phone2="393398982761" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CONVERSANO MOGLIE" Phone1="393498236904" Phone2="393498236904" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CORTESE PATRIZIO PIO" Phone1="390362550210" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CORVAGLIA" Phone1="390291082179" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COSTA CARMEN" Phone1="393493946714" Phone2="393493946714" Phone3="" default_photo="Resource:"/>
+    <Unit Name="COSTA CARMEN" Phone1="393493945714" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CRISTINA VALADERIO" Phone1="393498494496" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CROTTI MARIA AUSILIA" Phone1="393271188792" Phone2="393271188792" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CUBICCIOTTI DARIO" Phone1="393314925975" Phone2="393314925975" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CUPAIOLA MICHELA" Phone1="393313151952" Phone2="393313151952" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'ADDARIO LUCIA" Phone1="390362503670" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'ALESSANDRO ROSITA" Phone1="393401835621" Phone2="393401835621" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DALL'ARA LUIGI" Phone1="390362459046" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'AMICO ROSANNA" Phone1="393883070166" Phone2="393883070166" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'ANGELO FABIO" Phone1="393495579918" Phone2="393495579918" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Daniela Cabrele moglie Abruzzese" Phone1="393405332690" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DATA SERVICE" Phone1="3904221695239" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DATEV PAGHE" Phone1="393349566873" Phone2="393349566873" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DAVI' TIZIANO" Phone1="393791548961" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'AVOLA ANDREA" Phone1="393474216391" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'AVOLA DENIS" Phone1="393334413071" Phone2="393334413071" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'AVOLA MARIA" Phone1="393934909631" Phone2="393934909631" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'AVOLA MAURIZIO" Phone1="393333541669" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DE DANIELI GIANLUCA" Phone1="393496287437" Phone2="393496287437" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DE MATTEIS ALESSANDRO" Phone1="393485853189" Phone2="393485853189" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DE VITO FABRIZIO" Phone1="393333854496" Phone2="393333854496" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DE VITO FRANCESCO" Phone1="393477863475" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DE VITO GIUSEPPE" Phone1="393388261389" Phone2="393388261389" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DELL'ACQUA ILARIA" Phone1="393496927546" Phone2="393496927546" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DELL'ORTO STEFANO" Phone1="393486903922" Phone2="393486903922" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Denise - Servizi aziendali sas" Phone1="393467230451" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DERCOLE ALBERTO" Phone1="393385212936" Phone2="393385212936" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DESIDERATO Seac" Phone1="393386678639" Phone2="393386678639" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DESTRO STEFANO" Phone1="393471246135" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DI MARZO ANNA" Phone1="393293435307" Phone2="393293435307" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DI MUCCI PAOLO" Phone1="393386009009" Phone2="393386009009" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DI ROSA VINCENZO" Phone1="393384509276" Phone2="393384509276" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DI TRANI ANNALISA" Phone1="393382145191" Phone2="393382145191" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DIOTTI DANILO" Phone1="393356538167" Phone2="393356538167" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DONDI GIANNI" Phone1="390362508926" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="D'ORSA MAURIZIO" Phone1="393355465725" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="DOSSENA GRAZIA" Phone1="393487100593" Phone2="393487100593" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ECONORD MEDA" Phone1="39800032630" Phone2="39800032630" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Elisa Biscioni" Phone1="33939397004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FALCO ROBERTO" Phone1="393204683333" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FALCO ROBERTO 2" Phone1="393278454872" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FALLARA TOMMASO" Phone1="390362502876" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Federico Arachelian" Phone1="390362235729" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FEDERICO IACOPINELLI" Phone1="393407772683" Phone2="393407772683" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Fernando Sessa" Phone1="393481218866" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ferro Ferruccio" Phone1="393389982333" Phone2="393389982333" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FLERI MONICA" Phone1="393491308057" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FONSECA - mamma Dernice" Phone1="393714352998" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FONSECA MAMMA di OMAR" Phone1="393395220318" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FONSECA OMAR" Phone1="393397391898" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FONTANA COSTRUZIONI" Phone1="390362524269" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FONTANA GIUSEPPE" Phone1="393284966493" Phone2="393284966493" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FONTANA SABRINA" Phone1="393342381844" Phone2="393342381844" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FOTI ROBERTO" Phone1="393319306947" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FP Telematica srl" Phone1="390331670509" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FRANCESCA LA GRECA" Phone1="393342966121" Phone2="393342966121" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Francesca Ponticello" Phone1="393478444613" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FRANCOLINO CAMILLO" Phone1="393393993025" Phone2="393393993025" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FRANZOSO AURORA" Phone1="393474002262" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FRANZOSO GINO" Phone1="393420521800" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FRATTOLIN IGOR" Phone1="393496007696" Phone2="393496007696" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FRIGERIO ANGELA" Phone1="393404170343" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FRISON LUCA" Phone1="393394551350" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FUMAGALLI MARIA FILOMENA" Phone1="393405516840" Phone2="393405516840" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FUMAGALLI MARILENA" Phone1="393392867404" Phone2="393392867404" Phone3="" default_photo="Resource:"/>
+    <Unit Name="FUMAGALLI MARIO FILIPPO" Phone1="393482727718" Phone2="393482727718" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Gabriele Caruso" Phone1="393337640102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GAGLIANO CALOGERO" Phone1="393517049726" Phone2="393517049726" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Galimberti Gianmarco" Phone1="3488808233" Phone2="3488808233" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GALLARELLO MICHELANGELO" Phone1="390362545777" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GALLETTI ROBERTO" Phone1="393480982325" Phone2="393480982325" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GANCI" Phone1="393497742247" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GARIBOLDI ANGELA" Phone1="393335801213" Phone2="393335801213" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GARIBOLDI FELICE" Phone1="393335801213" Phone2="393335801213" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GENOVESE GIUSEPPE" Phone1="393358027724" Phone2="393358027724" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GENOVESE NICOLA" Phone1="393484445828" Phone2="393484445828" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GENTILI ANNA MARIA" Phone1="393495523559" Phone2="393495523559" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GEROSA FRANCESCO" Phone1="393471150133" Phone2="393471150133" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GHEZZI CLAUDIO" Phone1="393343547267" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GHEZZI CLAUDIO _negozio" Phone1="3903411944702" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GIANCUZZO GRAZIA" Phone1="3406969787" Phone2="3406969787" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GIANNI CASSAFORTE 2GL" Phone1="393355351197" Phone2="393355351197" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Gianni Mazzaro" Phone1="393468745683" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Gino Scarmato" Phone1="393472755897" Phone2="393472755897" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GIOFFRE' ANNALISA" Phone1="393898040095" Phone2="393898040095" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GIOIA GIOVANNI" Phone1="393343090559" Phone2="393343090559" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GIORGI ROSA" Phone1="3902711396" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GIUDICE SANDRO" Phone1="393388735929" Phone2="393388735929" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Giuseppina seminario" Phone1="393388680232" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GOBBATO LUISELLA" Phone1="393931284522" Phone2="393931284522" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GOFFREDO ROBERTO" Phone1="393283376723" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GORI EMANUELE VINCENZO" Phone1="393356852301" Phone2="393356852301" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRANDE SIMONE" Phone1="3337248962" Phone2="3337248962" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRANDE TOMMASO" Phone1="390362551723" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRASSI DIEGO" Phone1="393475911763" Phone2="393475911763" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRASSO DOMENICO AVV." Phone1="393338569708" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRAZIELLA moglie di Aroi Bruno" Phone1="393396873544" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRAZZI" Phone1="393386317683" Phone2="393386317683" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRECO VALTER" Phone1="393471553060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRIECO ROBERTO CELL." Phone1="393472329890" Phone2="393472329890" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRIGGIO FRANCESCA" Phone1="393393415120" Phone2="393393415120" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GRIGGIO FRANCO POMPEO" Phone1="393280774094" Phone2="393280774094" Phone3="" default_photo="Resource:"/>
+    <Unit Name="GUCCIONE ROSARIO" Phone1="393404196174" Phone2="393404196174" Phone3="" default_photo="Resource:"/>
+    <Unit Name="i.t.c. Versari - stage" Phone1="393284925001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="IDRAULICO OGGIONI GIANCARLO" Phone1="3496123757" Phone2="3496123757" Phone3="" default_photo="Resource:"/>
+    <Unit Name="IELO FILIPPO STEFANO" Phone1="393355955647" Phone2="393355955647" Phone3="" default_photo="Resource:"/>
+    <Unit Name="IELO STEFANO FILIPPO" Phone1="393497268321" Phone2="393497268321" Phone3="" default_photo="Resource:"/>
+    <Unit Name="IMPRIMIS (STAMPANTI)" Phone1="390312259346" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="INTONATO SIMONETTA" Phone1="393335818309" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="IURATO SALVATORE" Phone1="393394186942" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LA MEDICA DIOMIRA" Phone1="393394599008" Phone2="393394599008" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LA MEDICA DOMENICO" Phone1="390362220847" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LA VECCHIA VINCENZO" Phone1="393478294783" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LAL DESIGN SNC" Phone1="390332579451" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LAMEDICA DIOMIRA" Phone1="393394599008" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LANCELLOTTI GIUSEPPE" Phone1="390296781284" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LANZANI MATTEO" Phone1="393357469635" Phone2="393357469635" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LANZANI MATTEO 730" Phone1="393475640573" Phone2="393475640573" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LAURETTA SALVATORE" Phone1="393487398104" Phone2="393487398104" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LENTATE SPURGHI - TITOLARE" Phone1="393339554904" Phone2="393339554904" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LENTATE SPURGHI UFFICIO" Phone1="390362560900" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LEPRE ANNABELLA" Phone1="393474301167" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LEPRE IGNAZIO" Phone1="393664867228" Phone2="393664867228" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LEPRE SABRINA" Phone1="393394972429" Phone2="393394972429" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LIBERA D'ANTUONO" Phone1="393930334032" Phone2="393930334032" Phone3="" default_photo="Resource:"/>
+    <Unit Name="L'IMPRONTA SNC" Phone1="390362553012" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LMS di Testolina Stefano" Phone1="390362528624" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LOCATELLI MICHAEL" Phone1="393496181708" Phone2="393496181708" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LOMBARDO GIUSEPPE" Phone1="393493126676" Phone2="393493126676" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Lorella Siciliano" Phone1="393339880019" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Lorena Porro" Phone1="393357315470" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Lorenzo Saitta" Phone1="393392642521" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LOSARDO DANIELA" Phone1="393389986188" Phone2="393389986188" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Luca Moro" Phone1="393755039299" Phone2="393755039299" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Luca Trovo'" Phone1="393273513761" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Lucia Zamuner" Phone1="393668761637" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LUCIA ZERRILLI / CAMASTRA" Phone1="393393970421" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Luigino Favretto" Phone1="393715829201" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LUTAS" Phone1="393334017673" Phone2="393334017673" Phone3="" default_photo="Resource:"/>
+    <Unit Name="LUZIANI NOEMI" Phone1="3472706393" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MACHEDA ROBERTO" Phone1="393388888123" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MACHEDA VALERIA" Phone1="390362521694" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MADERNA FABIO" Phone1="393398557800" Phone2="393398557800" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MADERNA GIULIANO" Phone1="393394271524" Phone2="393394271524" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Maela Turati" Phone1="393395930395" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MAJO PATRIZIA" Phone1="393203752397" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MALANGA MARCO" Phone1="393401609909" Phone2="393401609909" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Mali Perparim" Phone1="393299391028" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MANDALA' MASSIMILIANO" Phone1="393392632121" Phone2="393392632121" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MANFRINATI WALTER" Phone1="393336725471" Phone2="393336725471" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MANNA/ DELLE CARRI" Phone1="393481037584" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MANNO LORELLA" Phone1="393387419116" Phone2="393387419116" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MANSUETO ROBERTA" Phone1="393408262441" Phone2="393408262441" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Manuela Formenti" Phone1="393484611666" Phone2="393484611666" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MANZELLA MICHELE A." Phone1="393472697745" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MANZONI PATRIZIO" Phone1="393475175572" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARANGONI MASSIMO" Phone1="393404648575" Phone2="393404648575" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARCELLO FIGLIO CARRIERO PIA" Phone1="393357979557" Phone2="393357979557" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARGARITO MONICA" Phone1="393397090252" Phone2="393397090252" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARGARITO MONICA - negozio" Phone1="390362641101" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Maria Grazia Miseremini" Phone1="393394232064" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Maria Grazia Tuminelli" Phone1="393394791604" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Maria Maiorano (D'errico)" Phone1="393292173274" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARIANGELA MOGLIE GRIECO" Phone1="393385346866" Phone2="393385346866" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Mariella Borromeo" Phone1="393389267910" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARINA RUBIN (FIGLIA)" Phone1="393924545855" Phone2="393924545855" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARIO PERILLO" Phone1="393385696686" Phone2="393385696686" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARITO LUPEZZA ADELAIDE (TERRAGNI)" Phone1="39335455149" Phone2="39335455149" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MARONI MARCO ELETTRICISTA" Phone1="393477755397" Phone2="393477755397" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MAROTTA VITALIANO" Phone1="393409689712" Phone2="393409689712" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MASTORE CLAUDIO" Phone1="393355769359" Phone2="393355769359" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MASUZZO SALVATORE" Phone1="3475988242" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MATERAZZO BRUNELLA" Phone1="393494354255" Phone2="393494354255" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MATTEAZZI DOMENICO" Phone1="393496044935" Phone2="393496044935" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MATTIA ALESSANDRO" Phone1="393333576229" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MAURO ANDREA GABRIELE" Phone1="393802936425" Phone2="393802936425" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MAZZA CERVONE" Phone1="393338351895" Phone2="393338351895" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MAZZONE ANGELO" Phone1="393475155931" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MAZZUCCO MASSIMO" Phone1="393483716281" Phone2="393483716281" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MELIDEO LUCIANO" Phone1="393397363274" Phone2="393397363274" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Michele Basilio" Phone1="393385630117" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Michele De Vito cellulare" Phone1="393312634035" Phone2="393312634035" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MILANI MICHELE" Phone1="393346122460" Phone2="393346122460" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Milano snack Zucchini" Phone1="393337881450" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MOGLIE GRANDE TOMMASO" Phone1="3384692912" Phone2="3384692912" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MOLTENI VIRGINIO" Phone1="393384471702" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MORA STEFANO" Phone1="393476424628" Phone2="393476424628" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MOSCONI DANIELA" Phone1="393398553268" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MOTOSCA EUGENIA" Phone1="393284462068" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MUKJA AIDA" Phone1="393393117552" Phone2="393393117552" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MUSETTI MARITO" Phone1="393398817703" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="MUSETTI ROBERTA" Phone1="393920200529" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NAPOLI ANGELA" Phone1="393470503242" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NEGRINI FRANCA" Phone1="393805257514" Phone2="393805257514" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NICOLETTA IARIA" Phone1="393357523288" Phone2="393357523288" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Nicosia" Phone1="393331266676" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NICOTRA CONCETTINA" Phone1="393804103827" Phone2="393804103827" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NICOTRA SALVATORE" Phone1="390362524668" Phone2="390362524668" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NICOTRA SERAFINA" Phone1="390362524668" Phone2="390362524668" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NOBILE PATRIZIA" Phone1="393384004376" Phone2="393384004376" Phone3="" default_photo="Resource:"/>
+    <Unit Name="NOTAIO LUCA CALABRIA" Phone1="390363222161" Phone2="390363222161" Phone3="" default_photo="Resource:"/>
+    <Unit Name="OPPEDISANO FIORINA" Phone1="393345005705" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="OTTOLINI STEFANIA" Phone1="393913472812" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PALERMO ANGELO" Phone1="393482225381" Phone2="393482225381" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PALERMO JESSICA" Phone1="393387308787" Phone2="393387308787" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PALERMO NICOLO'" Phone1="393407353112" Phone2="393407353112" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PALERMO VINCENZO" Phone1="393474761580" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PALLAVICINI/DARA" Phone1="390362542988" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PALMARO ROBERTO" Phone1="393488939719" Phone2="393488939719" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PANCANI LUCA" Phone1="393355932410" Phone2="393355932410" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PANSERA FILOMENA" Phone1="393519074796" Phone2="393519074796" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Paola moglie Pennisi Daniele" Phone1="393881878164" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Parravicini Paolo" Phone1="393395010221" Phone2="393395010221" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PASTORE MATTEO STEFANO" Phone1="393663223877" Phone2="393663223877" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PATERNOSTER GIOVANNI" Phone1="393395095969" Phone2="393395095969" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PATERNOSTER ROCCO DONATO" Phone1="390362545164" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Patrizia Luppino" Phone1="393393997686" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PATTI ANNA" Phone1="393398893704" Phone2="393398893704" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PATUZZO LUISA/ CAMPANELLA GESUALDO" Phone1="393472701609" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PEDOTO ANTONIETTA" Phone1="393356270791" Phone2="393356270791" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PELUCCHI ANDREA" Phone1="393384683186" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PELUCCHI ANTONIO FELICE" Phone1="393384002973" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PELUCCHI GIANLUCA" Phone1="393392459990" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PENNISI DANIELE" Phone1="393883626641" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PERILLO CATERINA ROSA" Phone1="393384296728" Phone2="393384296728" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PEZZOTTA ARIANNA" Phone1="393923022364" Phone2="393923022364" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PINA ROMEO" Phone1="393394091496" Phone2="393394091496" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PIOVAN CARLO" Phone1="39029963344" Phone2="39029963344" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PIOVAN LINDA" Phone1="39029963344" Phone2="39029963344" Phone3="" default_photo="Resource:"/>
+    <Unit Name="POLLONI SPURGHI" Phone1="39036273372" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PONTICELLO RAFFAELLA" Phone1="393497786470" Phone2="393497786470" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PORRO ALESSIA" Phone1="393392542837" Phone2="393392542837" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PORRO ARNANDO" Phone1="393480000542" Phone2="393480000542" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PORRO COND ARE" Phone1="393476064209" Phone2="393476064209" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PORRO MAURIZIO ADOLFO" Phone1="390362550213" Phone2="390362550213" Phone3="" default_photo="Resource:"/>
+    <Unit Name="POTENZA ANTONIO" Phone1="393355345190" Phone2="393355345190" Phone3="" default_photo="Resource:"/>
+    <Unit Name="POTENZA LEONARDO" Phone1="393515646980" Phone2="393515646980" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PRONESTI MASSIMO" Phone1="393473702982" Phone2="393473702982" Phone3="" default_photo="Resource:"/>
+    <Unit Name="PUCCIO ELENA" Phone1="393513242193" Phone2="393513242193" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Raffaella  Ponticello" Phone1="393497786470" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RAGIONIERE" Phone1="393312634035" Phone2="393312634035" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RAGNO JONATHAN" Phone1="393397695601" Phone2="393397695601" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RAGUSA ANGELA" Phone1="393713734442" Phone2="393713734442" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RENDINA ROBERTA" Phone1="393314543098" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RICCARDO DIOTTI" Phone1="393317637562" Phone2="393317637562" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Riccardo Sasso" Phone1="393337691099" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RICCEI SERGIO" Phone1="393804653315" Phone2="393804653315" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RICCI ENRICO" Phone1="393338644638" Phone2="393338644638" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RITA PALLAVICINI" Phone1="393664159347" Phone2="393664159347" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RIZZATO ALESSIO" Phone1="393470803307" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RL 95 UFFICIO" Phone1="39039792549" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RL95 MERATI ROBERTO" Phone1="393356122636" Phone2="393356122636" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Roberto Dalla Longa" Phone1="393496160678" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROBERTO FOTI" Phone1="393388291081" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Roberto Foti 2" Phone1="393475375540" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROLAND" Phone1="393283767489" Phone2="393283767489" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROMANO EMILIO" Phone1="393331062292" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROMANO' GIOVANNA" Phone1="393387009167" Phone2="393387009167" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROMANO MICHELE" Phone1="393701461409" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROMEO ANDREA" Phone1="393458805222" Phone2="393458805222" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROMEO JESSICA" Phone1="393484907582" Phone2="393484907582" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROMEO LEANDRO" Phone1="393461836372" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROMEO PASQUALE" Phone1="393396105362" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RONCHI MATTEO" Phone1="393480829586" Phone2="393480829586" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RONCHI MIRIAM" Phone1="393296776240" Phone2="393296776240" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RONZONI EMMA" Phone1="393338098680" Phone2="393338098680" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Rosaria Marino" Phone1="393932313942" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROSSETTO PAOLINO" Phone1="393894456793" Phone2="393894456793" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROSSI ONORATO" Phone1="393493223674" Phone2="393493223674" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROSSINI CLAUDIA" Phone1="393382120448" Phone2="393382120448" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROSSINI FRANCESCA" Phone1="393393625630" Phone2="393393625630" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ROSSO/MANDRUZZATO" Phone1="393405634250" Phone2="393405634250" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RUBIN ERMELINDO" Phone1="393389502039" Phone2="393389502039" Phone3="" default_photo="Resource:"/>
+    <Unit Name="RUSSO CARMINE" Phone1="393398937539" Phone2="393398937539" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SAIV" Phone1="390362508163" Phone2="390362508163" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SALA CRIST" Phone1="393400509036" Phone2="393400509036" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SALA SILVIO GIOVANNI" Phone1="390362520641" Phone2="390362520641" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Salvatore Gelso" Phone1="393314519393" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Salvatore Gentile - figlio" Phone1="393339443653" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SAMMARCO EMILIANO" Phone1="393392875207" Phone2="393392875207" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SAMPIETRI / TOMANIN" Phone1="390362550613" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SANSALONE LUANA" Phone1="393475537302" Phone2="393475537302" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SANTABARBARA MASSIMO" Phone1="393482740717" Phone2="393482740717" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SARA SERVIZI" Phone1="393207913346" Phone2="393207913346" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SARLO STEFANO" Phone1="393334258746" Phone2="393334258746" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SASSONE ILARIA" Phone1="393474639719" Phone2="393474639719" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCARANO" Phone1="393349382444" Phone2="393349382444" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCARANO MARCO" Phone1="393473709137" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCARICO ANTONIO" Phone1="393382637586" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCARMATO GINO" Phone1="393472755897" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCHIAVO GIANFRANCO" Phone1="393463153835" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Schiavo Gianluigi" Phone1="393467266769" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCHIAVONE (MOGLIE)" Phone1="393482625642" Phone2="393482625642" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCHIAVONE GIUSEPPE" Phone1="393472315861" Phone2="393472315861" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCIOTTO LUCIA" Phone1="393389663130" Phone2="393389663130" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SCOTILLO MARIA" Phone1="393384212809" Phone2="393384212809" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SEDINI ROSANNA" Phone1="393667487694" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SEMINARA PAOLO" Phone1="393356746356" Phone2="393356746356" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Sergio Covre" Phone1="393472450820" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SERVELLO ROSSELLA" Phone1="393382346359" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SERVIZI AZIENDALI" Phone1="390291920610" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SFERLAZZO MARIA TERESA" Phone1="393388475710" Phone2="393388475710" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SICILIANO VALERIA" Phone1="393485156010" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Silvani Laura figlia di Dario" Phone1="393202666708" Phone2="393202666708" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Simonetta Barilani" Phone1="393381136096" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SINDONI ANTONIO ROBERTO" Phone1="393396313779" Phone2="393396313779" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SINDONI NICOLA" Phone1="393332792002" Phone2="393332792002" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SIRACUSA NUNZIA" Phone1="393318629371" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SOMASCHINI CARLO" Phone1="393924876199" Phone2="393924876199" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SPARACIO ANNA" Phone1="393898547623" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SPOSITO FRANCO" Phone1="393393140120" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SPOSITO GIUSEPPA" Phone1="390362503052" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SPOSITO ROSARIO" Phone1="393402615212" Phone2="393402615212" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SPREAFICO ANTONELLA" Phone1="393471485263" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="STEFANIA MOGLIE BERTAGGIA" Phone1="393287255740" Phone2="393287255740" Phone3="" default_photo="Resource:"/>
+    <Unit Name="STEFFANONI ALESSANDRA" Phone1="393356639462" Phone2="393356639462" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Studio  avv.Intonato Palmieri" Phone1="362641020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="STUDIO D" Phone1="390362540489" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="STUDIO NOTAIO CIMMINO" Phone1="390362331144" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TELLI ROBERTO" Phone1="393398140757" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TERRANEO IVO" Phone1="393355942459" Phone2="393355942459" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Testa Daniela" Phone1="393396736220" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TESTOLINA MASSIMO" Phone1="393458473619" Phone2="393458473619" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TESTOLINA STEFANO" Phone1="393515780379" Phone2="393515780379" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TONIN GIUSEPPE" Phone1="390362501851" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TORRACA ROBERTO" Phone1="393488096830" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TORRENTE GIOVANNI" Phone1="393397447477" Phone2="393397447477" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TRAFICANTE" Phone1="393471602605" Phone2="393471602605" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TRAMARIN ELENA" Phone1="393519171975" Phone2="393519171975" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TURATI TERESA (MOGLIE DI GIOVINE PAOLO)" Phone1="393485145418" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="UNION STEEL SRL" Phone1="3903621975909" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="UNION STEEL SRL" Phone1="3903621975909" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VENTURA OMAR" Phone1="393939319156" Phone2="393939319156" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VERTOLOMO FRANCESCO" Phone1="393462120706" Phone2="393462120706" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VETRERIA GALLO" Phone1="390362507979" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VISCOMI LUIGI" Phone1="393336587658" Phone2="393336587658" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VISCOMI RITA VI.MA." Phone1="393475165791" Phone2="393475165791" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VISCONTI ASSICURAZIONI" Phone1="390362506915" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VITALE ILENIA" Phone1="390362542032" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VITO LUPPINO" Phone1="393293408471" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="VOLTOLINI LARA" Phone1="393467391515" Phone2="393467391515" Phone3="" default_photo="Resource:"/>
+    <Unit Name="XODO ARREDAMENTI" Phone1="390362551087" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="XODO GRAZIANO" Phone1="393935906971" Phone2="393935906971" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZACCARIA FILIPPO" Phone1="393406142184" Phone2="393406142184" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZAMUNER ELIO / PELLEGRINELLI" Phone1="393355819363" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZANELLA MARZIA" Phone1="393479686907" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZANELLATO ANNAMARIA" Phone1="393347593596" Phone2="393347593596" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZANIN FABIO" Phone1="393462390523" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZANON MONICA" Phone1="393387707326" Phone2="393387707326" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZARDONI MARIA PIERA" Phone1="393406809952" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZARDONI MASSIMILIANO" Phone1="393398185628" Phone2="393398185628" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZECCHIN CORRADO" Phone1="393386398921" Phone2="393386398921" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZEMINIAN ANDREA" Phone1="393497524508" Phone2="393497524508" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZENOBI MASSIMO" Phone1="393397558283" Phone2="393397558283" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZERRILLI DONATA / MONTAGNER" Phone1="393334459578" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZERRILLI MARTINO" Phone1="393394795590" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZITELLI FRANCESCO" Phone1="393389214206" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZOIA FRANCESCA" Phone1="393421512222" Phone2="393421512222" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZORLONI ALESSANDRO" Phone1="393461640211" Phone2="393461640211" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZORLONI MAIKOL" Phone1="393495869745" Phone2="393495869745" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZUSSO NADIA" Phone1="393513147933" Phone2="393513147933" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ZUSSO ROBERTO" Phone1="3384318523" Phone2="3384318523" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>
